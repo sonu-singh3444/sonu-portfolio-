@@ -1,4 +1,5 @@
-# [ECOMMERCE SALE DASHBOARD]
+
+# [Project 1 : ECOMMERCE SALE DASHBOARD]
 
  * Created interactive dashboard to track and analyze online sales data using POWER BI.
  * Used drill down in worksheet and customization using filters and slicers.
