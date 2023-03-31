@@ -1,4 +1,4 @@
-	`#RRGGBB`
+	`#000000`
 # [Project 1 : ECOMMERCE SALE DASHBOARD]
 
  * Created interactive dashboard to track and analyze online sales data using POWER BI.
